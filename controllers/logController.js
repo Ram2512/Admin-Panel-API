@@ -1,5 +1,6 @@
 const AuditLog = require('../models/AuditLog');
 
+// just for fun
 async function logAudit(action, performedBy, targetResource) {
   try {
     await AuditLog.create({
