@@ -7,6 +7,8 @@
 // });
 
 // module.exports = sequelize;
+
+//just for fun
 const { Sequelize } = require('sequelize');
 require('dotenv').config();
 
