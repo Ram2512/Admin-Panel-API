@@ -1,7 +1,7 @@
 # BoardInfinity Backend
 
 ## Overview
-This repository contains the backend implementation for the Admin Panel, which provides multi-level role-based access control (RBAC) for managing users, roles, and projects. The backend is built using **Node.js** with **TypeScript**, utilizing **PostgreSQL** as the database and **Sequelize ORM** for data modeling. JWT-based authentication is used for secure access to resources, and soft deletion is implemented for certain models. Audit logs keep track of user actions.
+This repository contains the backend implementation for the Admin Panel, which provides multi-level role-based access control (RBAC) for managing users, roles, and projects. The backend is built using **Node.js** with **JavaScript**, utilizing **PostgreSQL** as the database and **Sequelize ORM** for data modeling. JWT-based authentication is used for secure access to resources, and soft deletion is implemented for certain models. Audit logs keep track of user actions.
 
 ## Features
 - **Multi-level Role-based Access Control (RBAC)**
