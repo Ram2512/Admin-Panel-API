@@ -7,7 +7,7 @@ This repository contains the backend implementation for the Admin Panel, which p
 
 You can test the APIs using Postman by clicking the button below: 
 
-[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/38226728-993fee4f-e73c-42cd-9ed1-8c27dee4ecec?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D38226728-993fee4f-e73c-42cd-9ed1-8c27dee4ecec%26entityType%3Dcollection%26workspaceId%3Dddaadba0-ad89-4649-9c3d-d0175593f83d)
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://www.postman.com/avionics-geologist-67008188/admin-panel-api/collection/gumkplm/admin-panel)
 
 ## Features
 - **Multi-level Role-based Access Control (RBAC)**
